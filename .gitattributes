@@ -1,5 +1,0 @@
-*           text=auto eol=crlf
-*.txt       text eol=crlf
-*.csv       text eol=crlf
-*.jpg       -text
-*.png       -text
