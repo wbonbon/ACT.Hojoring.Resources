@@ -7,7 +7,7 @@ $baseUri = "https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/ma
 
 Write-Output "# Hojoring.Resources" > $hashList
 
-$files = Get-ChildItem .\ -Recurse
+$files = Get-ChildItem .\ -Recurse | Sort-Object -Property DirectoryName,Name
 
 $prevDirectory = ""
 
