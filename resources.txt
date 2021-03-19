@@ -1,8 +1,8 @@
 # Hojoring.Resources
 
 # bin\lib
-bin\lib\grpc_csharp_ext.x64.dll https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/bin/lib/grpc_csharp_ext.x64.dll F533148359F1DC6A38DA7E56A260A949
-bin\lib\grpc_csharp_ext.x86.dll https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/bin/lib/grpc_csharp_ext.x86.dll 4880F5F4F3F750BE0D17CFB95E76234D
+bin\lib\grpc_csharp_ext.x64.dll https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/bin/lib/grpc_csharp_ext.x64.dll 3979AAF16286C09DCCD6D541343CDB21
+bin\lib\grpc_csharp_ext.x86.dll https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/bin/lib/grpc_csharp_ext.x86.dll A62174E6EB9597EFACD7E5D6FF0EBBC1
 bin\lib\libopus.dll https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/bin/lib/libopus.dll 8EFA1FE57D0654D3C9A94F15039196B2
 bin\lib\libsodium.dll https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/bin/lib/libsodium.dll 6AB13686F40B52C170D74231D455228E
 
