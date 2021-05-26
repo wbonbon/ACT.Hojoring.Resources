@@ -1655,7 +1655,7 @@ Effet sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re après
 1642,"Évocation Logos<Indent/>: Bouclier","La défense physique est augmentée.","ui/icon/016000/016638.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,False,False,False,1000,0,False,0,False,False,0,0,False
 1643,"Évocation Logos<Indent/>: Barrière","La défense magique est augmentée.","ui/icon/016000/016639.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,False,False,False,1000,0,False,0,False,False,0,0,False
 1644,"Évocation Logos<Indent/>: Vélocité","La vitesse de déplacement est augmentée.","ui/icon/016000/016640.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,6,False
-1645,"Recharge rapide","Le temps de recharge de la prochaine action est réduit.","ui/icon/016000/016641.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,5,False,0,False,False,0,18,False
+1645,"Recharge rapide","Le temps de recharge de la prochaine aptitude est réduit.","ui/icon/016000/016641.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,5,False,0,False,False,0,18,False
 1646,"Évocation Logos<Indent/>: Bravoure","Les dégâts infligés sont augmentés.","ui/icon/016000/016642.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,50,False,False,False,10,0,False,0,False,False,0,0,False
 1647,"Protection physique","Les dégâts physiques reçus sont réduits.","ui/icon/016000/016643.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,70,False,False,False,-99,0,False,0,False,False,0,0,False
 1648,"Protection magique","Les dégâts magiques reçus sont réduits.","ui/icon/016000/016644.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,70,False,False,False,-99,0,False,0,False,False,0,0,False
@@ -2560,51 +2560,51 @@ Si Hansel et Gretel se rapprochent l'un de l'autre, leurs lances sont également
 2539,"Lance et bouclier renforcés","La lance et le bouclier sont renforcés. Les dégâts subis sont réduits.
 Les attaques par les côtés et par derrière sont parées.","ui/icon/015000/015362.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,100,False,False,False,50,0,False,0,False,False,0,0,False
 2540,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2541,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2542,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2543,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2544,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2545,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2541,"不浄の侵食","不浄に侵食されつつある状態。カウント0で不浄の恐怖状態に陥り、対象から離れようとしてしまう。","ui/icon/015000/015363.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
+2542,"不浄の恐怖","不浄の恐怖で行動できなくなり、対象から離れようとしてしまう状態。","ui/icon/015000/015364.tex",0,1,2,"dk05th_stdn0t","",False,False,True,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2543,"Tout mou","Le corps est tout mou. La vitesse de déplacement est réduite et aucun saut ni aucune action ne peuvent être effectués.","ui/icon/016000/016214.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,True,False,False,False,False,100,False,False,False,0,2,True,0,False,False,0,0,False
+2544,"","",,0,1,1,"","",False,False,True,True,False,False,False,True,True,0,False,True,False,0,20,False,0,False,False,3,0,False
+2545,"Gant relevé","A relevé le défi lancé par l'adversaire. La prochaine attaque en provenance de ce dernier infligera moins de dégâts. Rend K.O. si aucune attaque n'est subie avant la fin de l'effet.","ui/icon/015000/015349.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,0,False,False,True,-90,0,False,0,False,False,0,0,False
 2546,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2547,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2548,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2549,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2547,"Hache de feu","Lyon a enflammé sa hache, conférant à ses attaques automatiques un effet sup<SoftHyphen/>plé<SoftHyphen/>men<SoftHyphen/>tai<SoftHyphen/>re.","ui/icon/015000/015350.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
+2548,"Transformation","L'apparence est com<SoftHyphen/>plè<SoftHyphen/>te<SoftHyphen/>ment changée.","ui/icon/016000/016214.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,True,False,False,True,True,100,False,False,False,0,2,False,0,False,False,0,0,False
+2549,"Munitions spéciales","La pistobardiche est chargée avec des munitions à effet spécial.","ui/icon/015000/015347.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 2550,"Bonus de dégâts","Les dégâts infligés sont augmentés.","ui/icon/017000/017061.tex",16,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,False,False,False,20,0,False,0,False,False,0,0,False
 2551,"Pesanteur","La vitesse de déplacement est réduite.","ui/icon/015000/015002.tex",0,1,2,"dk05ht_grv0h","dk10ht_grv0h",False,False,False,False,False,False,False,True,True,200,False,False,False,0,1,False,0,False,False,0,0,False
 2552,"","",,0,1,1,"","",False,False,False,False,False,False,False,True,True,0,False,True,False,0,28,True,0,False,False,0,0,False
-2553,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2554,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2553,"Au diapason","Au diapason avec son partenaire de combat. Les dégâts infligés sont augmentés, et les dégâts reçus sont réduits.","ui/icon/015000/015348.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,False,False,False,20,0,False,0,False,False,0,0,False
+2554,"Luna-optimisation défensive","Tactique de combat optimisée pour la défense.","ui/icon/015000/015343.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,True,False,False,True,True,200,False,False,False,0,2,False,0,False,False,0,0,False
 2555,"Bonus de dégâts physiques","Les dégâts physiques infligés sont augmentés.","ui/icon/015000/015050.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,100,False,False,False,10,0,False,0,False,False,0,0,False
 2556,"Bonus de dégâts magiques","Les dégâts magiques infligés sont augmentés.","ui/icon/015000/015054.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,100,False,False,False,10,0,False,0,False,False,0,0,False
 2557,"EndoFoudre","Les attaques automatiques infligent également des dégâts de foudre.","ui/icon/015000/015513.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,100,False,False,False,100,0,False,0,False,False,0,0,False
-2558,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2559,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2560,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2561,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2562,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2563,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2564,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2565,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2566,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2567,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2558,"Bouillonnement oublié","Les dégâts reçus sont augmentés.","ui/icon/016000/016619.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,True,False,False,50,False,False,False,10,0,False,0,False,False,0,0,False
+2559,"Ravage oublié","Les dégâts reçus sont augmentés.","ui/icon/016000/016622.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,True,False,False,50,False,False,False,10,0,False,0,False,False,0,0,False
+2560,"Avalanche de sorts oubliée","Les sorts peuvent être lancés instantanément.","ui/icon/016000/016623.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2561,"Bouclier II oublié","Les dégâts physiques subis sont réduits.","ui/icon/016000/016624.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,36,False,False,False,-15,0,False,0,False,False,0,0,False
+2562,"Barrière II oubliée","Les dégâts magiques reçus sont réduits.","ui/icon/016000/016625.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,35,False,False,False,-15,0,False,0,False,False,0,0,False
+2563,"Vitalité oubliée","Les PV maximums sont augmentés.","ui/icon/016000/016700.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,34,False,False,False,30,0,False,0,False,False,0,0,False
+2564,"Excellence oubliée","Insensible à la plupart des attaques, et les dégâts infligés sont augmentés.","ui/icon/016000/016701.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,70,False,False,False,0,0,False,0,False,False,0,0,False
+2565,"Vaillance héroïque","Les dégâts infligés sont augmentés, et les dégâts subis sont réduits.","ui/icon/016000/016649.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,False,False,False,65,0,False,0,False,False,0,0,False
+2566,"Rage sanguinaire oubliée","Les dégâts infligés sont augmentés, et les dégâts subis sont réduits.","ui/icon/017000/017486.tex",4,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,False,False,False,15,0,False,0,False,False,0,0,False
+2567,"Éveil du sang","Les dégâts infligés sont augmentés, des PV ainsi que des PM sont récupérés périodiquement, et les temps de recharge des aptitudes sont réduits.","ui/icon/016000/016702.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,False,False,False,60,5,False,0,False,False,0,18,False
 2568,"Mouette rieuse","Les chances d'obtenir un poisson HQ en pêchant sont augmentées.","ui/icon/016000/016238.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2569,"L'Écho des dauphins","Le taux de récupération de PR est augmenté.","ui/icon/016000/016239.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2570,"Aurora dalphinus","Les chances de croiser un courant spectral sont augmentées.","ui/icon/016000/016240.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
-2571,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2572,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2573,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2571,"Tirage du destin","Une carte est tirée en se fiant au destin.","ui/icon/015000/015344.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2572,"Parchemin de Thaliak","Les dégâts infligés sont augmentés, et le délai des attaques automatiques ainsi que les temps de lancement et de recharge des techniques d'arme et des sorts de magie sont réduits.","ui/icon/015000/015345.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,False,False,False,20,0,False,0,False,False,0,0,False
+2573,"Brèche","Les actions sont considérablement entravées.","ui/icon/015000/015346.tex",0,1,2,"dk05ht_grv0h","dk10ht_grv0h",True,False,True,False,False,False,False,False,False,100,False,False,False,0,21,False,0,False,False,0,32,False
 2574,"Aimant à foudre","Le corps attire les éclairs.","ui/icon/015000/015351.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,28,True,0,False,False,0,0,False
-2575,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2576,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2575,"Bras droit renforcé","La puissance du bras droit est augmentée.","ui/icon/015000/015352.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
+2576,"Bras gauche renforcé","La puissance du bras gauche est augmentée.","ui/icon/015000/015353.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 2577,"En ALÉA","Participe à un ALÉA particulier.","ui/icon/016000/016241.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,100,False,False,False,0,0,False,0,False,False,0,0,False
 2578,"Téléportation impossible","Le corps est alourdi et la téléportation devient in<SoftHyphen/>uti<SoftHyphen/>li<SoftHyphen/>sa<SoftHyphen/>ble.","ui/icon/015000/015370.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 2579,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2580,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2581,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2582,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2583,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2584,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2585,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2580,"Passe-droit d'interception<Indent/>: On arrête le progrès","Prioritaire pour participer au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment crucial “On arrête le progrès”.","ui/icon/016000/016697.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
+2581,"Passe-droit d'interception<Indent/>: Zirnitrop","Prioritaire pour participer au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment crucial “Zirnitrop”.","ui/icon/016000/016697.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
+2582,"Passe-droit d'interception<Indent/>: Et n'y Hród'viens plus<Indent/>!","Prioritaire pour participer au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment crucial “Et n'y Hród'viens plus<Indent/>!”.","ui/icon/016000/016697.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
+2583,"Passe-droit d'interception<Indent/>: Un cavalier qui surgit hors de la nuit","Prioritaire pour participer au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment crucial “Un cavalier qui surgit hors de la nuit”.","ui/icon/016000/016697.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
+2584,"Passe-droit d'interception<Indent/>: Oiseau d'enfer","Prioritaire pour participer au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment crucial “Oiseau d'enfer”.","ui/icon/016000/016697.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
+2585,"Passe-droit d'interception<Indent/>: Le Grand Ordonnateur","Prioritaire pour participer au prochain af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment crucial “Le Grand Ordonnateur”.","ui/icon/016000/016697.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
 2586,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2587,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2588,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -2644,31 +2644,31 @@ Les attaques par les côtés et par derrière sont parées.","ui/icon/015000/015
 2622,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2623,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2624,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2625,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2626,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2627,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2625,"Comète de l'égide","Porte une ou plusieurs médailles. Les PV maximums sont augmentés.","ui/icon/019000/019626.tex",10,1,1,"formation02f","",False,False,False,False,False,False,False,True,True,0,False,False,False,2,0,True,0,False,False,0,0,False
+2626,"Comète de la furie","Porte une ou plusieurs médailles. Les dégâts infligés sont augmentés.","ui/icon/019000/019606.tex",10,1,1,"formation02f","",False,False,False,False,False,False,False,True,True,0,False,False,False,2,0,True,0,False,False,0,0,False
+2627,"Comète du salut","Porte une ou plusieurs médailles. Les soins prodigués sont augmentés.","ui/icon/019000/019646.tex",10,1,1,"formation02f","",False,False,False,False,False,False,False,True,True,0,False,False,False,2,0,True,0,False,False,0,0,False
 2628,"Dislocation adamantine","L'armure externe est démantelée.","ui/icon/015000/015371.tex",0,1,1,"","",False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,False,0,False,False,0,0,False
 2629,"","",,0,1,1,"","",False,False,False,False,False,False,False,True,True,0,False,True,False,0,4,True,0,False,False,0,0,False
 2630,"","",,0,1,1,"","",False,False,False,False,False,False,False,True,True,0,False,True,False,0,4,True,0,False,False,0,0,False
-2631,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2631,"Duel à mort","Doit participer à un duel à mort. La plupart des moyens de ranimation ne fonctionnent pas.","ui/icon/015000/015366.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 2632,"Blanc<Indent/>: numérisation","Le corps est converti en données numériques.","ui/icon/015000/015356.tex",0,1,1,"","",False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,True,0,False,False,0,0,False
 2633,"Noir<Indent/>: numérisation","Le corps est converti en données numériques.","ui/icon/015000/015357.tex",0,1,1,"","",False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,True,0,False,False,0,0,False
 2634,"Résistance blanche","Insensible aux attaques des cibles affectées par Blanc<Indent/>: numérisation.","ui/icon/015000/015358.tex",0,1,1,"","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 2635,"Résistance noire","Insensible aux attaques des cibles affectées par Noir<Indent/>: numérisation.","ui/icon/015000/015359.tex",0,1,1,"","",False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
-2636,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2637,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2638,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2639,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2640,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2641,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2636,"Saignement","Des dégâts périodiques neutres sont subis.","ui/icon/015000/015530.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,True,False,False,10,False,False,False,10,0,False,0,False,False,0,0,False
+2637,"Dogme de survie","Les dégâts subis par les équipiers dans l'aire d'effet sont réduits, et leurs PV sont restaurés.","ui/icon/012000/012802.tex",0,29,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,50,0,True,0,False,False,0,0,False
+2638,"Dogme de survie","Les dégâts reçus sont réduits.","ui/icon/012000/012803.tex",0,29,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,True,0,False,False,False,-10,0,False,0,False,False,0,0,False
+2639,"Signe fixe","Émet une aura bénéfique qui réduit les dégâts reçus.","ui/icon/013000/013227.tex",0,1,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,4,True,0,False,False,0,27,False
+2640,"Signe fixe","Les dégâts reçus sont réduits.","ui/icon/013000/013226.tex",0,99,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,True,0,False,False,False,-10,0,False,0,False,False,0,0,False
+2641,"Signe fixe","Des PV sont récupérés périodiquement.","ui/icon/013000/013225.tex",0,99,1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,5,False,False,False,10,0,False,0,False,False,0,0,False
 2642,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2643,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2644,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2645,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2646,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2644,"Devant protégé","Seuls les points faibles de l'avant du corps restent inconnus de l'ennemi. Les attaques en provenance de l'arrière, de la droite et de la gauche infligent d'importants dégâts.","ui/icon/015000/015369.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,100,False,False,False,0,28,True,0,False,False,0,0,False
+2645,"Marquage","Fait l'objet du marquage d'un prédateur.","ui/icon/015000/015026.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
+2646,"Électrocution","Des dégâts périodiques de foudre sont subis.","ui/icon/015000/015528.tex",0,1,2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
 2647,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2648,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2649,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2649,"Renforce-bête","Le dresseur pousse sa bête jusqu'aux limites de sa force.","ui/icon/015000/015255.tex",0,1,1,"dk05th_stup0t","c0101_bt_bufft0_n1",False,False,False,False,False,False,False,False,False,0,False,False,False,50,0,False,0,False,False,0,0,False
 2650,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2651,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2652,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -2676,8 +2676,8 @@ Les attaques par les côtés et par derrière sont parées.","ui/icon/015000/015
 2654,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2655,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2656,"Étourdissement","Toute action est impossible.","ui/icon/015000/015004.tex",0,1,2,"dk05ht_sta0h","",True,False,True,False,False,False,False,False,False,100,False,False,False,0,0,False,0,False,False,0,0,False
-2657,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-2658,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2657,"Bombe à accélération","Une bombe sensible aux accélérations est fixée au corps. Tout mouvement à la fin de l'effet déclenchera le mécanisme d'explosion.","ui/icon/015000/015727.tex",0,1,2,"dk05th_stdn0t","m0328sp10st0f",False,False,False,False,False,False,False,False,False,200,False,False,False,6234,0,False,0,False,False,0,23,False
+2658,"Congélation","Le corps est entièrement gelé, empêchant toutes actions.","ui/icon/015000/015637.tex",0,1,2,"dk05th_stdn0t","hyouketu0f",True,False,True,False,False,False,False,False,False,100,False,False,False,0,0,False,0,False,False,0,32,False
 2659,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2660,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2661,"","",,0,0,0,"","",False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
