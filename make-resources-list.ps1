@@ -23,7 +23,7 @@ foreach ($f in $files) {
     $relayPath = Resolve-Path $f -Relative
 
     $localPath = $relayPath.Replace(".\", "")
-    $remoteUri = $baseUri + $localPath.Replace("\", "/")
+    $remoteUri = [uri]::EscapeUriString($baseUri + $localPath.Replace("\", "/"))
 
     $hash = Get-FileHash $f -Algorithm MD5
 
