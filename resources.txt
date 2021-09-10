@@ -140,6 +140,232 @@ resources\icon\Role\MeleeDPS.png https://raw.githubusercontent.com/anoyetta/ACT.
 resources\icon\Role\RangeDPS.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Role/RangeDPS.png 9375A1B2E61C9A15E2BBBA33480DE889
 resources\icon\Role\TANK.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Role/TANK.png 24708DDBE1243C49D868C4946F0BBB49
 
+# resources\icon\Timeline EN
+resources\icon\Timeline EN\1.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/1.png 2CDC83BD86EDA2237B3C90AD1F4A4903
+resources\icon\Timeline EN\2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/2.png CE5409BFB7EBD235126307D5ABB00859
+resources\icon\Timeline EN\A.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/A.png 52A800E82042CDE9EB60BF5CB047C6B4
+resources\icon\Timeline EN\AllRangeAttack.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AllRangeAttack.png 4F41CDDF4653BDA69460311F031634D2
+resources\icon\Timeline EN\Alpha.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Alpha.png 97594C91FA6092EA552734DB231747AE
+resources\icon\Timeline EN\Alpha2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Alpha2.png 43EBDBEE0BD382576A8004AA8D7ECDBC
+resources\icon\Timeline EN\AOE.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AOE.png 9B13F624791C9014F49F97D40EF308A7
+resources\icon\Timeline EN\AOECross.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AOECross.png A11492243DD2EDED63C8D304E24FD3DC
+resources\icon\Timeline EN\AOEHorizontal.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AOEHorizontal.png D428B4CDEDE915F3F4622FD18A25174D
+resources\icon\Timeline EN\AOEInside.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AOEInside.png 7FB7A2DB34311CF082D59CF565634B0D
+resources\icon\Timeline EN\AOEOutside.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AOEOutside.png 5768C284347B84D9C7B4F812B6E1E0ED
+resources\icon\Timeline EN\AOEPlus.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AOEPlus.png E72265BF4077741E75AEC89C4AD65168
+resources\icon\Timeline EN\AOEVertical.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/AOEVertical.png BF25B4075C06F9928515875E0AD0D853
+resources\icon\Timeline EN\Approach.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Approach.png 6FD2428EA1D2BA972F052A58466226D6
+resources\icon\Timeline EN\Attack.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Attack.png 8EBC328977491FC67B4C174FEB0E6EF3
+resources\icon\Timeline EN\Attention.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Attention.png 6748B9EC7B0DB11E2F8F78AF8E2AAF55
+resources\icon\Timeline EN\Avoid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Avoid.png 7171173EC2380A03F7324FBB4F1955E1
+resources\icon\Timeline EN\B.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/B.png 3D712E6BB4713F038A288EE149F482DF
+resources\icon\Timeline EN\Beta.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Beta.png 42511F659319C3BC71C38E4B84CD6C77
+resources\icon\Timeline EN\Beta2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Beta2.png 15AC1B9D42D0E988FA4C1F88DBFC62CB
+resources\icon\Timeline EN\Bomb.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Bomb.png 3591F16FA1E1948EC93B500BEF02346E
+resources\icon\Timeline EN\Branch.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Branch.png 00FAF6D9D16F01A5C2B055DBDFB65863
+resources\icon\Timeline EN\Buff.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Buff.png 48CFF6380D63CB31F22820AA9DD6F8D5
+resources\icon\Timeline EN\C.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/C.png 73DCC2C5DB9546C2910919A6BFA392BD
+resources\icon\Timeline EN\D.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/D.png 9A5DFC91437E6753FFA313F939AFAC2A
+resources\icon\Timeline EN\DamageShare.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/DamageShare.png 506BC7335AE431B834F3CCC46F7217FE
+resources\icon\Timeline EN\Delta.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Delta.png 3D37EB7BF08C62850F7DD0C8D42AA2EF
+resources\icon\Timeline EN\Delta2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Delta2.png 2346F590CF48B87DF741DD3B2DBC0896
+resources\icon\Timeline EN\Dialog.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dialog.png 3BABC0F3EAB50B0F2C513A508C9058D1
+resources\icon\Timeline EN\Dice1.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice1.png 7A4F882D76B234DFECE986E843195285
+resources\icon\Timeline EN\Dice2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice2.png 1B405153A515855EC938A3D5F5F831DE
+resources\icon\Timeline EN\Dice3.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice3.png 15BB50997F5112BE1CB7344E33E4A79B
+resources\icon\Timeline EN\Dice4.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice4.png D1B5BE9F8ED02B3C146E7220F373DCB5
+resources\icon\Timeline EN\Dice5.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice5.png 4B3B3E72C296C78CFAC658BA03E3790E
+resources\icon\Timeline EN\Dice6.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice6.png C3B20A849658D3C78D869ACCD9F67887
+resources\icon\Timeline EN\Dice7.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice7.png 45B813E9FBC35491A71AB2875FC3D7EE
+resources\icon\Timeline EN\Dice8.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Dice8.png 1770E6C7145B18CB8F0741B8FF39AB43
+resources\icon\Timeline EN\Distance.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Distance.png B07AF189816AA6538B73AF570C2AF954
+resources\icon\Timeline EN\DontAction.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/DontAction.png 51F84D7D4B2A3852F2C4468AC6800315
+resources\icon\Timeline EN\DontApproach.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/DontApproach.png DA4C7DB982D479CC8BE39E4DC7CE75A7
+resources\icon\Timeline EN\DontEscape.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/DontEscape.png D235CEA951CB24E2A5E3656CB0D4C201
+resources\icon\Timeline EN\DontMove.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/DontMove.png FEACD67F735CB6FA20EFE132BFBAE5B6
+resources\icon\Timeline EN\DontTouch.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/DontTouch.png 0919EBAC07844A09F426BE1492DC27B0
+resources\icon\Timeline EN\East.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/East.png 20D985C042C5DC74DC6D7FC3D7A22B33
+resources\icon\Timeline EN\Explosion.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Explosion.png 6A2187309D6383557DAFCA28DD94B444
+resources\icon\Timeline EN\Eye.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Eye.png 3E5B703E341038E6CFB95F213B75A132
+resources\icon\Timeline EN\FallingObject.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/FallingObject.png 2DB40032B4DE4185CD88C97C18FDF0DD
+resources\icon\Timeline EN\False.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/False.png 2DC4EBC181E66B7B0EC46449DD72FD2D
+resources\icon\Timeline EN\Fire.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Fire.png F6166AEEC5F47B14D5D563FF65D92560
+resources\icon\Timeline EN\Flag.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Flag.png 4A0F89095E0794EF9D6F0861F6E7F109
+resources\icon\Timeline EN\ForceHP1.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/ForceHP1.png 193F8E38D5B3D9140AD3F5809F77A711
+resources\icon\Timeline EN\Free.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Free.png 01467AB6B2AFD6BE85B7F5C3AB895F89
+resources\icon\Timeline EN\Gamma.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Gamma.png 887F61CF3E804F76EA00CBE5FDFAC262
+resources\icon\Timeline EN\Gamma2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Gamma2.png 892F61B182F823C45B0C6B9465D9FD57
+resources\icon\Timeline EN\HardAllRangeAttack.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/HardAllRangeAttack.png E54B068CCCB42403D78C8D55418BCAB8
+resources\icon\Timeline EN\HardAttack.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/HardAttack.png 27238B05317E5A1FD2858AEC726B1808
+resources\icon\Timeline EN\HoT.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/HoT.png 4065178B3305BC94DFA3917D86DEB038
+resources\icon\Timeline EN\Ice.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Ice.png A64A3150D141F183B539B3986D242DBA
+resources\icon\Timeline EN\Invincibility.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Invincibility.png 816F43C849E57F85B28B3A4ACB7A2428
+resources\icon\Timeline EN\KnockBack.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/KnockBack.png DEA0CBD3ACD9F7FC1CFB999EC81ECCA5
+resources\icon\Timeline EN\LB.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/LB.png A9DBB3758664EB0FCDA0202B320DE05E
+resources\icon\Timeline EN\Leave.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Leave.png DC90B514B73F55310CE874F917E4BE7F
+resources\icon\Timeline EN\Lightning.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Lightning.png 1156BCA4ECB6C3FBB729C61AF272DC09
+resources\icon\Timeline EN\Magnet.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Magnet.png C17502EB4CB19D1D58647204A2BD662C
+resources\icon\Timeline EN\Marker.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Marker.png 3C88313B29094818E57033AF49240CDD
+resources\icon\Timeline EN\Nail.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Nail.png C5F5EED768221CFEC9E00FB305A411C5
+resources\icon\Timeline EN\North.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/North.png FA18E623F05401DCFA62944A92E662B2
+resources\icon\Timeline EN\ObserveEscape.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/ObserveEscape.png 5E895574F66774EA8248C926B95E0D29
+resources\icon\Timeline EN\Pair.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Pair.png DA0A6D8780F3127105196492E2E13EA5
+resources\icon\Timeline EN\Potion.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Potion.png 634967C2C810A9A1AC2D01D14D05AC47
+resources\icon\Timeline EN\Pull.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Pull.png CD3218ACFB18D96CC08B3CAFCA84451C
+resources\icon\Timeline EN\PunishmentGlory.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/PunishmentGlory.png FDBACB869D73CF4D40639500AC995565
+resources\icon\Timeline EN\PunishmentGroup.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/PunishmentGroup.png DA43C9D45C0DAACED69A1345358F6E75
+resources\icon\Timeline EN\PunishmentHevy.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/PunishmentHevy.png DC97DA4716690D327F356EDF81170848
+resources\icon\Timeline EN\Slip.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Slip.png 4056F74AE5F680ED2C96599E07381ADB
+resources\icon\Timeline EN\South.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/South.png 563076084748493E2775722AF51C0949
+resources\icon\Timeline EN\SpreadA.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/SpreadA.png 1B6CCA3BCA7631E64301FB92D1352C8B
+resources\icon\Timeline EN\SpreadB.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/SpreadB.png 552A4AEAE8696290A03FF1AB0CE927C5
+resources\icon\Timeline EN\Stack.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Stack.png DEB3FF71DE7E527386E5E582210ED749
+resources\icon\Timeline EN\StackAOE.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/StackAOE.png BFF279C9A0C3BACA54948DA89F937105
+resources\icon\Timeline EN\StackBack.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/StackBack.png 1F1E969B7A7750D0FDE7F0A24E157EE0
+resources\icon\Timeline EN\StackFront.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/StackFront.png D33180EDC6D0078051F59416C7EA964F
+resources\icon\Timeline EN\Switch.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Switch.png C5CB158E6FFC8AE2693AC458911B1B84
+resources\icon\Timeline EN\TankShare.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/TankShare.png 1E344ABD2FFA7160CC510143D80E09C9
+resources\icon\Timeline EN\TargetAOE.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/TargetAOE.png DBC3841BFD0CB1174BF74D585298E7D5
+resources\icon\Timeline EN\TargetAOE01.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/TargetAOE01.png 3A755B3A5DE715EE4916EA28DF330CE3
+resources\icon\Timeline EN\TargetAOE02.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/TargetAOE02.png 6DA835748CD47C778F141F37D0F4D9CB
+resources\icon\Timeline EN\TargetAOE03.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/TargetAOE03.png 63E9DCAE13D58C05D4DB749F0F70C358
+resources\icon\Timeline EN\Thunder.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Thunder.png FB8B44573EF2CCA7B65D2D1942DF591A
+resources\icon\Timeline EN\Timeout.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Timeout.png 8FCBDC4E64D60D9800BB1823C641CE32
+resources\icon\Timeline EN\Timer.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Timer.png 5229C2727B58C430CB9D3F6725964336
+resources\icon\Timeline EN\TorF.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/TorF.png F66E3E1E4F73B64C65BA64791DF9A637
+resources\icon\Timeline EN\Touch.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Touch.png 1304E00FE704E2FD1A605960D1564381
+resources\icon\Timeline EN\True.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/True.png 489AAD625EAE5889A938CE8D4990D5B7
+resources\icon\Timeline EN\Twister.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Twister.png F534BB3A0E2349D419895390E3B203FE
+resources\icon\Timeline EN\Virus.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Virus.png 4539BC9DE0BC9BD3C3FEA1394588F73E
+resources\icon\Timeline EN\Water.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/Water.png 5CDAED54621FFA7BC74DC7017D4982DA
+resources\icon\Timeline EN\West.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline EN/West.png 8815D42C47A43CB0727459BB0AB9D4F2
+
+# resources\icon\Timeline JP
+resources\icon\Timeline JP\1マーカー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/1マーカー.png 2CDC83BD86EDA2237B3C90AD1F4A4903
+resources\icon\Timeline JP\2マーカー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/2マーカー.png CE5409BFB7EBD235126307D5ABB00859
+resources\icon\Timeline JP\Aマーカー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/Aマーカー.png 52A800E82042CDE9EB60BF5CB047C6B4
+resources\icon\Timeline JP\Bマーカー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/Bマーカー.png 3D712E6BB4713F038A288EE149F482DF
+resources\icon\Timeline JP\Cマーカー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/Cマーカー.png 73DCC2C5DB9546C2910919A6BFA392BD
+resources\icon\Timeline JP\Dマーカー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/Dマーカー.png 9A5DFC91437E6753FFA313F939AFAC2A
+resources\icon\Timeline JP\HOT.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/HOT.png 4065178B3305BC94DFA3917D86DEB038
+resources\icon\Timeline JP\HP1強制.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/HP1強制.png 193F8E38D5B3D9140AD3F5809F77A711
+resources\icon\Timeline JP\LB.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/LB.png A9DBB3758664EB0FCDA0202B320DE05E
+resources\icon\Timeline JP\X範囲攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/X範囲攻撃.png A11492243DD2EDED63C8D304E24FD3DC
+resources\icon\Timeline JP\ウィルス系.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/ウィルス系.png 4539BC9DE0BC9BD3C3FEA1394588F73E
+resources\icon\Timeline JP\サイコロ1.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ1.png 7A4F882D76B234DFECE986E843195285
+resources\icon\Timeline JP\サイコロ2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ2.png 1B405153A515855EC938A3D5F5F831DE
+resources\icon\Timeline JP\サイコロ3.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ3.png 15BB50997F5112BE1CB7344E33E4A79B
+resources\icon\Timeline JP\サイコロ4.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ4.png D1B5BE9F8ED02B3C146E7220F373DCB5
+resources\icon\Timeline JP\サイコロ5.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ5.png 4B3B3E72C296C78CFAC658BA03E3790E
+resources\icon\Timeline JP\サイコロ6.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ6.png C3B20A849658D3C78D869ACCD9F67887
+resources\icon\Timeline JP\サイコロ7.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ7.png 45B813E9FBC35491A71AB2875FC3D7EE
+resources\icon\Timeline JP\サイコロ8.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サイコロ8.png 1770E6C7145B18CB8F0741B8FF39AB43
+resources\icon\Timeline JP\サンダー系.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/サンダー系.png FB8B44573EF2CCA7B65D2D1942DF591A
+resources\icon\Timeline JP\スイッチ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/スイッチ.png C5CB158E6FFC8AE2693AC458911B1B84
+resources\icon\Timeline JP\スリップ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/スリップ.png 4056F74AE5F680ED2C96599E07381ADB
+resources\icon\Timeline JP\セリフ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/セリフ.png 3BABC0F3EAB50B0F2C513A508C9058D1
+resources\icon\Timeline JP\タイマー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/タイマー.png 5229C2727B58C430CB9D3F6725964336
+resources\icon\Timeline JP\タンク二人受け.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/タンク二人受け.png 1E344ABD2FFA7160CC510143D80E09C9
+resources\icon\Timeline JP\ツイスター.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/ツイスター.png F534BB3A0E2349D419895390E3B203FE
+resources\icon\Timeline JP\ノックバック.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/ノックバック.png DEA0CBD3ACD9F7FC1CFB999EC81ECCA5
+resources\icon\Timeline JP\ブリザド系.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/ブリザド系.png A64A3150D141F183B539B3986D242DBA
+resources\icon\Timeline JP\ファイア系.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/ファイア系.png F6166AEEC5F47B14D5D563FF65D92560
+resources\icon\Timeline JP\フラッグ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/フラッグ.png 4A0F89095E0794EF9D6F0861F6E7F109
+resources\icon\Timeline JP\フルバフ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/フルバフ.png 48CFF6380D63CB31F22820AA9DD6F8D5
+resources\icon\Timeline JP\ペア処理.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/ペア処理.png DA0A6D8780F3127105196492E2E13EA5
+resources\icon\Timeline JP\ベータ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/ベータ.png B5B43002BEC25AB316C3F806C9141CF4
+resources\icon\Timeline JP\マーカー.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/マーカー.png 3C88313B29094818E57033AF49240CDD
+resources\icon\Timeline JP\マグネット系.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/マグネット系.png C17502EB4CB19D1D58647204A2BD662C
+resources\icon\Timeline JP\移動禁止.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/移動禁止.png FEACD67F735CB6FA20EFE132BFBAE5B6
+resources\icon\Timeline JP\引き寄せ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/引き寄せ.png CD3218ACFB18D96CC08B3CAFCA84451C
+resources\icon\Timeline JP\右3安置.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/右3安置.png 20D985C042C5DC74DC6D7FC3D7A22B33
+resources\icon\Timeline JP\横範囲攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/横範囲攻撃.png D428B4CDEDE915F3F4622FD18A25174D
+resources\icon\Timeline JP\下6安置.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/下6安置.png 563076084748493E2775722AF51C0949
+resources\icon\Timeline JP\加重罰.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/加重罰.png DC97DA4716690D327F356EDF81170848
+resources\icon\Timeline JP\外周範囲攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/外周範囲攻撃.png 5768C284347B84D9C7B4F812B6E1E0ED
+resources\icon\Timeline JP\偽.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/偽.png 2DC4EBC181E66B7B0EC46449DD72FD2D
+resources\icon\Timeline JP\距離減衰.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/距離減衰.png B07AF189816AA6538B73AF570C2AF954
+resources\icon\Timeline JP\行動禁止.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/行動禁止.png 51F84D7D4B2A3852F2C4468AC6800315
+resources\icon\Timeline JP\左9安置.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/左9安置.png 8815D42C47A43CB0727459BB0AB9D4F2
+resources\icon\Timeline JP\散開A.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/散開A.png 1B6CCA3BCA7631E64301FB92D1352C8B
+resources\icon\Timeline JP\散開B.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/散開B.png 552A4AEAE8696290A03FF1AB0CE927C5
+resources\icon\Timeline JP\視線.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/視線.png 3E5B703E341038E6CFB95F213B75A132
+resources\icon\Timeline JP\時間切れ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/時間切れ.png 8FCBDC4E64D60D9800BB1823C641CE32
+resources\icon\Timeline JP\集合.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/集合.png DEB3FF71DE7E527386E5E582210ED749
+resources\icon\Timeline JP\集団罰.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/集団罰.png DA43C9D45C0DAACED69A1345358F6E75
+resources\icon\Timeline JP\十字範囲攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/十字範囲攻撃.png E72265BF4077741E75AEC89C4AD65168
+resources\icon\Timeline JP\縦範囲攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/縦範囲攻撃.png BF25B4075C06F9928515875E0AD0D853
+resources\icon\Timeline JP\重ね捨て.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/重ね捨て.png BFF279C9A0C3BACA54948DA89F937105
+resources\icon\Timeline JP\床範囲.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/床範囲.png 9B13F624791C9014F49F97D40EF308A7
+resources\icon\Timeline JP\上12安置.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/上12安置.png FA18E623F05401DCFA62944A92E662B2
+resources\icon\Timeline JP\真.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/真.png 489AAD625EAE5889A938CE8D4990D5B7
+resources\icon\Timeline JP\真偽.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/真偽.png F66E3E1E4F73B64C65BA64791DF9A637
+resources\icon\Timeline JP\水.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/水.png 5CDAED54621FFA7BC74DC7017D4982DA
+resources\icon\Timeline JP\正面集合.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/正面集合.png D33180EDC6D0078051F59416C7EA964F
+resources\icon\Timeline JP\接近強制.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/接近強制.png 6FD2428EA1D2BA972F052A58466226D6
+resources\icon\Timeline JP\接近禁止.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/接近禁止.png DA4C7DB982D479CC8BE39E4DC7CE75A7
+resources\icon\Timeline JP\接触禁止.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/接触禁止.png 0919EBAC07844A09F426BE1492DC27B0
+resources\icon\Timeline JP\接触保護.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/接触保護.png 1304E00FE704E2FD1A605960D1564381
+resources\icon\Timeline JP\全体強攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/全体強攻撃.png E54B068CCCB42403D78C8D55418BCAB8
+resources\icon\Timeline JP\全体攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/全体攻撃.png 4F41CDDF4653BDA69460311F031634D2
+resources\icon\Timeline JP\対象範囲攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/対象範囲攻撃.png DBC3841BFD0CB1174BF74D585298E7D5
+resources\icon\Timeline JP\対象範囲攻撃01.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/対象範囲攻撃01.png 3A755B3A5DE715EE4916EA28DF330CE3
+resources\icon\Timeline JP\対象範囲攻撃02.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/対象範囲攻撃02.png 6DA835748CD47C778F141F37D0F4D9CB
+resources\icon\Timeline JP\対象範囲攻撃03.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/対象範囲攻撃03.png 63E9DCAE13D58C05D4DB749F0F70C358
+resources\icon\Timeline JP\単体強攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/単体強攻撃.png 27238B05317E5A1FD2858AEC726B1808
+resources\icon\Timeline JP\単体攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/単体攻撃.png 8EBC328977491FC67B4C174FEB0E6EF3
+resources\icon\Timeline JP\注意.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/注意.png 6748B9EC7B0DB11E2F8F78AF8E2AAF55
+resources\icon\Timeline JP\塔踏み.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/塔踏み.png 2DB40032B4DE4185CD88C97C18FDF0DD
+resources\icon\Timeline JP\逃亡観察.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/逃亡観察.png 5E895574F66774EA8248C926B95E0D29
+resources\icon\Timeline JP\逃亡禁止.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/逃亡禁止.png D235CEA951CB24E2A5E3656CB0D4C201
+resources\icon\Timeline JP\頭割り.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/頭割り.png 506BC7335AE431B834F3CCC46F7217FE
+resources\icon\Timeline JP\内周範囲攻撃.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/内周範囲攻撃.png 7FB7A2DB34311CF082D59CF565634B0D
+resources\icon\Timeline JP\背面集合.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/背面集合.png 1F1E969B7A7750D0FDE7F0A24E157EE0
+resources\icon\Timeline JP\爆弾.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/爆弾.png 3591F16FA1E1948EC93B500BEF02346E
+resources\icon\Timeline JP\爆発系.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/爆発系.png 6A2187309D6383557DAFCA28DD94B444
+resources\icon\Timeline JP\避ける.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/避ける.png 7171173EC2380A03F7324FBB4F1955E1
+resources\icon\Timeline JP\分岐.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/分岐.png 00FAF6D9D16F01A5C2B055DBDFB65863
+resources\icon\Timeline JP\無職.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/無職.png 01467AB6B2AFD6BE85B7F5C3AB895F89
+resources\icon\Timeline JP\無敵受け.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/無敵受け.png 816F43C849E57F85B28B3A4ACB7A2428
+resources\icon\Timeline JP\名誉罰.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/名誉罰.png FDBACB869D73CF4D40639500AC995565
+resources\icon\Timeline JP\薬.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/薬.png 634967C2C810A9A1AC2D01D14D05AC47
+resources\icon\Timeline JP\雷.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/雷.png 1156BCA4ECB6C3FBB729C61AF272DC09
+resources\icon\Timeline JP\離れる.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/離れる.png DC90B514B73F55310CE874F917E4BE7F
+resources\icon\Timeline JP\楔.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/楔.png C5F5EED768221CFEC9E00FB305A411C5
+resources\icon\Timeline JP\α.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/α.png 97594C91FA6092EA552734DB231747AE
+resources\icon\Timeline JP\α2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/α2.png 43EBDBEE0BD382576A8004AA8D7ECDBC
+resources\icon\Timeline JP\β.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/β.png 42511F659319C3BC71C38E4B84CD6C77
+resources\icon\Timeline JP\β2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/β2.png 15AC1B9D42D0E988FA4C1F88DBFC62CB
+resources\icon\Timeline JP\γ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/γ.png 887F61CF3E804F76EA00CBE5FDFAC262
+resources\icon\Timeline JP\γ2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/γ2.png 892F61B182F823C45B0C6B9465D9FD57
+resources\icon\Timeline JP\δ.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/δ.png 3D37EB7BF08C62850F7DD0C8D42AA2EF
+resources\icon\Timeline JP\δ2.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Timeline JP/δ2.png 2346F590CF48B87DF741DD3B2DBC0896
+
+# resources\timeline\wallpaper
+resources\timeline\wallpaper\biolike.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/timeline/wallpaper/biolike.png EEC7305613187871052945B662781548
+resources\timeline\wallpaper\fflike.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/timeline/wallpaper/fflike.png 84E7911AC70B5BFE3B8C285459ACB55F
+
+# resources\wav
+resources\wav\_asterisk.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_asterisk.wav D23ADA5153D11F89B0FFBA5B2D3C31EE
+resources\wav\_beep.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_beep.wav B38C8416C45A18435D2AB8CB9073417B
+resources\wav\_wipeout.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_wipeout.wav A6313825057421E1F117F2CC11322144
+resources\wav\alarm.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/alarm.wav 8BDD148A84C98B864A59247A8BB58708
+resources\wav\chime13.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/chime13.wav 5EC132D1CD1955FA156F943B6E616D0E
+resources\wav\mute.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/mute.wav 55BDBBC5B73F88DE6C47BC5F9B25BAEF
+resources\wav\onepoint14.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/onepoint14.wav 5424472303437EF9A0D754056FCBE104
+resources\wav\onepoint23.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/onepoint23.wav 619C60A99B5EF6DD3A96497FAC1F689B
+resources\wav\onepoint24.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/onepoint24.wav 0E6C409867205B78F117673C492AE4CF
+resources\wav\onepoint26.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/onepoint26.wav DAE7DEE514CEC75351E8AC64AB1A2942
+resources\wav\onepoint30.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/onepoint30.wav 150014F062E78C73DB09D3B3BF23A706
+resources\wav\onepoint32.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/onepoint32.wav 87361D5AE752C6C4C423DD8EF072A63B
+resources\wav\onepoint33.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/onepoint33.wav 77E19E8F69A1360822D474FB7F2C7394
+resources\wav\Sasara_Caution.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/Sasara_Caution.wav 6404F199FF64E118CF7F61A6DACADAF1
+resources\wav\Sasara_StartsUsing.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/Sasara_StartsUsing.wav 426526ACA932A1D5C61528E8D0959B5E
+resources\wav\Sasara_Warning.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/Sasara_Warning.wav 20B5B11667FA82CDE7985856F64D3A75
+resources\wav\Sasara_Warning2.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/Sasara_Warning2.wav 84BD1611B02D14A15B5C867A187F2856
+resources\wav\system46.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/system46.wav A9B64DE95B47805191FED3E5DFE6AD33
+resources\wav\system47.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/system47.wav DA5219739E40FD5A2D29A72C8C27CC91
+
 # resources\xivdb
 resources\xivdb\Action.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.de-DE.csv D89FC526B0A9F75A6B51C565343D8587
 resources\xivdb\Action.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.en-US.csv BBBD74EF1BF401A76BC70FAD1E275B02
