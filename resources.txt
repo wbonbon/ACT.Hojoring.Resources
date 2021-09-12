@@ -145,9 +145,9 @@ resources\timeline\wallpaper\biolike.png https://raw.githubusercontent.com/anoye
 resources\timeline\wallpaper\fflike.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/timeline/wallpaper/fflike.png 84E7911AC70B5BFE3B8C285459ACB55F
 
 # resources\wav
-resources\wav\_asterisk.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_asterisk.wav D23ADA5153D11F89B0FFBA5B2D3C31EE
-resources\wav\_beep.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_beep.wav B38C8416C45A18435D2AB8CB9073417B
-resources\wav\_wipeout.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_wipeout.wav A6313825057421E1F117F2CC11322144
+# resources\wav\_asterisk.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_asterisk.wav D23ADA5153D11F89B0FFBA5B2D3C31EE
+# resources\wav\_beep.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_beep.wav B38C8416C45A18435D2AB8CB9073417B
+# resources\wav\_wipeout.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/_wipeout.wav A6313825057421E1F117F2CC11322144
 resources\wav\alarm.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/alarm.wav 8BDD148A84C98B864A59247A8BB58708
 resources\wav\chime13.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/chime13.wav 5EC132D1CD1955FA156F943B6E616D0E
 resources\wav\mute.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/mute.wav 55BDBBC5B73F88DE6C47BC5F9B25BAEF
