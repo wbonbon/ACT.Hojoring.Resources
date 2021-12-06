@@ -370,12 +370,6 @@ resources\xivdb\Action.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.
 resources\xivdb\Action.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ja-JP.csv A91CB41F1D7D519A50FBDE3183AD9F9C
 resources\xivdb\Action.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ko-KR.csv 38D39EF3CB70103C9814E39245584FD2
 resources\xivdb\Action.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.zh-CN.csv 6A4A6F5FC7E86F532DDA792BA5ED2D28
-resources\xivdb\Instance.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Instance.de-DE.csv 4B456F64ABD0855C08A59FD356FAE72F
-resources\xivdb\Instance.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Instance.en-US.csv AFB8C5A782D8FCE767FC9F40CF93EA96
-resources\xivdb\Instance.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Instance.fr-FR.csv E64BCFE47FF60B33D27EDAA79ABB2405
-resources\xivdb\Instance.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Instance.ja-JP.csv 4569FC2B7088B265D41B3DBE01554059
-resources\xivdb\Instance.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Instance.ko-KR.csv 7898296942609AB39442B0D255F70915
-resources\xivdb\Instance.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Instance.zh-CN.csv E616CE8DE62CE67AF810AC52EBC265E7
 resources\xivdb\Status.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.de-DE.csv 74F20AFB32139B9EFB718F240EDA7024
 resources\xivdb\Status.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.en-US.csv 95DC4D7DCB11D40B29F1A142CF7B66F6
 resources\xivdb\Status.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.fr-FR.csv BD5528CB4C85905C8508F39EB51BD8A4
