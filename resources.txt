@@ -117,10 +117,14 @@ resources\icon\Job\RDM_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.
 resources\icon\Job\RDM.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/RDM.png B5B1D507B4880123B23EAD72EC5891B1
 resources\icon\Job\ROG_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/ROG_Solid.png E81ABCB7499F34C6B9DB87C011819A0B
 resources\icon\Job\ROG.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/ROG.png FCF40199681990C2D1EA02BFA0EA0C1E
+resources\icon\Job\RPR_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/RPR_Solid.png 4F701E021F5835A330CD868F2B0D68A0
+resources\icon\Job\RPR.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/RPR.png 7331423AA3CF574B23E28532FE4EAEA8
 resources\icon\Job\SAM_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SAM_Solid.png 437D0093BC6087C5899ED40F41AD46D2
 resources\icon\Job\SAM.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SAM.png D215976A3285A1AA9BF97C2697790FAB
 resources\icon\Job\SCH_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SCH_Solid.png FCE65FBE4DD263805D234962D7A53D5F
 resources\icon\Job\SCH.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SCH.png 8042426C9729EECCCC7524EE86F70595
+resources\icon\Job\SGE_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SGE_Solid.png 671407D472BD9181DED7CF83DF0E6FD6
+resources\icon\Job\SGE.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SGE.png 8C8AADCC6F89411B526631B7F3DC0BFD
 resources\icon\Job\SMN_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SMN_Solid.png 77D79A801E641416F96F39061D46D2B4
 resources\icon\Job\SMN.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/SMN.png C32D5C6C444EDA8EDA70CBC4FD6EA4A0
 resources\icon\Job\THM_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/THM_Solid.png 7C6DCA527D38C667C7E2849A5FA9F8BF
