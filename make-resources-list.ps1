@@ -3,7 +3,7 @@ Set-Location $cd
 
 $hashList = Join-Path $cd "resources.txt"
 
-$baseUri = "https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/"
+$baseUri = "https://raw.githubusercontent.com/wbonbon/ACT.Hojoring.Resources/master/"
 
 Write-Output "# Hojoring.Resources" > $hashList
 
